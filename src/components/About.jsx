@@ -40,7 +40,7 @@ const About = () => {
       className="mt-4 text-secondary text-[17px] "
       >
         A passionate Data Scientist specializing in extracting actionable insights from complex data.
-         I harness the power of data to build intelligent, data-driven solutions with a focus on performance, predictive analytics, and optimization. My expertise spans from cleaning and preprocessing large datasets to building machine learning models that solve real-world problems. I enjoy uncovering patterns in data and transforming them into valuable insights. Whether it’s building predictive models, designing recommendation systems, or leveraging data to inform business decisions, I’m always eager to turn raw data into impactful results.
+        I harness the power of data to build intelligent, data-driven solutions with a focus on performance, predictive analytics, and optimization. My expertise spans from cleaning and preprocessing large datasets to building machine learning models that solve real-world problems. I enjoy uncovering patterns in data and transforming them into valuable insights. Whether it’s building predictive models, designing recommendation systems, or leveraging data to inform business decisions, I’m always eager to turn raw data into impactful results.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
