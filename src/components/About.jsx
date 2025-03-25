@@ -39,8 +39,8 @@ const About = () => {
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] "
       >
-        A passionate Full Stack Developer specializing in the MERN stack.
-        I build dynamic, user-centric web applications with a focus on performance, functionality, and intuitive design. My expertise spans from developing responsive front-end interfaces to architecting robust back-end systems. I love solving complex problems and creating seamless digital experiences. Whether it's real-time communication apps, interactive dashboards, or scalable APIs, I’m always eager to bring innovative ideas to life. Let’s create something amazing together!
+        A passionate Data Scientist specializing in extracting actionable insights from complex data.
+         I harness the power of data to build intelligent, data-driven solutions with a focus on performance, predictive analytics, and optimization. My expertise spans from cleaning and preprocessing large datasets to building machine learning models that solve real-world problems. I enjoy uncovering patterns in data and transforming them into valuable insights. Whether it’s building predictive models, designing recommendation systems, or leveraging data to inform business decisions, I’m always eager to turn raw data into impactful results.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
