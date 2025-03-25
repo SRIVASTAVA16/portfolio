@@ -58,14 +58,6 @@ const technologies = [
     icon: "/tech/tailwind.png",
   },
   {
-    name: "Node JS",
-    icon: "/tech/nodejs.png",
-  },
-  {
-    name: "MongoDB",
-    icon: "/tech/mongodb.png",
-  },
-  {
     name: "git",
     icon: "/tech/git.png",
   },
