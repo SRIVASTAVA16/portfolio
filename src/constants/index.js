@@ -42,20 +42,20 @@ const technologies = [
     icon: "/tech/css.png",
   },
   {
-    name: "JavaScript",
-    icon: "/tech/javascript.png",
+    name: "R",
+    icon: "/tech/R.png",
   },
   {
     name: "React JS",
     icon: "/tech/reactjs.png",
   },
   {
-    name: "Redux Toolkit",
-    icon: "/tech/redux.png",
+    name: "Tableau",
+    icon: "/tech/Tableau.png",
   },
-  {
-    name: "Tailwind CSS",
-    icon: "/tech/tailwind.png",
+   {
+    name: "Hadoop",
+    icon: "/tech/hadoop.png",
   },
   {
     name: "git",
