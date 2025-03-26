@@ -45,8 +45,8 @@ const technologies = [
     icon: "/tech/css.png",
   },
   {
-    name: "JavaScript",
-    icon: "/tech/javascript.png",
+    name: "R",
+    icon: "/tech/R.png",
   },
   {
     name: "React JS",
