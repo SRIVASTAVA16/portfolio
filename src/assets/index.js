@@ -21,6 +21,11 @@ import tripguide from "./tripguide.png";
 import testimonial1 from "./testimonial1.png";
 import tictactoe from "./tictactoe.jpg";
 import library from "./library.jpeg";
+
+import R from "./R.jpg";
+import Tableau from "./Tableau.jpg";
+import hadoop from "./hadoop.png";
+
 export {
   doclogo,
   reslogo4,
@@ -44,4 +49,7 @@ export {
   testimonial1,
   library,
   tictactoe,
+  R,
+  Tableau,
+  hadoop
 };

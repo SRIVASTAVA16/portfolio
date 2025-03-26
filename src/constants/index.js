@@ -7,7 +7,10 @@ import {
   web,
   testimonial1,
   library,
-  tictactoe
+  tictactoe,
+  R,
+  Tableau,
+  hadoop
 } from "../assets";
 
 export const navLinks = [
@@ -50,12 +53,16 @@ const technologies = [
     icon: "/tech/reactjs.png",
   },
   {
-    name: "Redux Toolkit",
-    icon: "/tech/redux.png",
+    name: "Hadoop",
+    icon: "/tech/hadoop.png",
   },
   {
-    name: "Tailwind CSS",
-    icon: "/tech/tailwind.png",
+    name: "Tableau",
+    icon: "/tech/Tableau.jpg",
+  },
+  {
+    name: "R",
+    icon: "/tech/R.jpg",
   },
   {
     name: "git",
