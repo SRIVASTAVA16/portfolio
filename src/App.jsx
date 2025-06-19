@@ -12,7 +12,7 @@ function App() {
         </div>
         <About />
         <Experience />
-        <Feedbacks />
+        {/* <Feedbacks /> */}
         <Tech />
         <div className="relative z-0 px-10">
           <Contact />

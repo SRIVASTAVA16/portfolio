@@ -46,7 +46,7 @@ const technologies = [
   },
   {
     name: "R",
-    icon: "/tech/R.png",
+    icon: R,
   },
   {
     name: "React JS",
@@ -54,15 +54,11 @@ const technologies = [
   },
   {
     name: "Hadoop",
-    icon: "/tech/hadoop.png",
+    icon: hadoop,
   },
   {
     name: "Tableau",
-    icon: "/tech/Tableau.jpg",
-  },
-  {
-    name: "R",
-    icon: "/tech/R.jpg",
+    icon: Tableau,
   },
   {
     name: "git",
