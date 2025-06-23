@@ -118,12 +118,12 @@ const experiences = [
     iconBg: "#383E56",
     type: "Individual project",
     techStack: "UI/UX Figma wireframes",
-    sourcelink: "https://www.figma.com/design/EKjvtgepER7bbki7pjES4a/Untitled-(Copy)?node-id=0-1&t=PFn5Ywq1ZXPOvEq6-1",
+    sourcelink: "https://www.figma.com/design/NPYTNXRE33ch45qgtfmPtJ/Healthapp-highwireframe?node-id=0-1&t=BLTR3iPe4b9b7cvP-1",
     points: [
-      "Designed high-fidelity wireframes for a seamless food ordering experience, focusing on user-friendly navigation and modern UI/UX principles.",
-      "Implemented key functionalities including adding items to the cart, managing authentication, and enabling secure payments, resulting in a more intuitive user journey.",
-      "Enhanced order tracking and item management features, allowing users to efficiently add, delete, and track food orders, improving overall user satisfaction.",
-      "Streamlined checkout process with integrated payment gateways, boosting efficiency and ensuring a smooth transaction experience for customers."
+      "Designed a high-fidelity health app using Figma, focusing on intuitive user flows and seamless navigation to enhance the user experience. ",
+      "Developed detailed wireframes for key features such as tracking workouts, setting health goals, and monitoring progress, leading to improves user interface key functionalities including adding items to the cart, managing authentication, and enabling secure payments, resulting in a more intuitive user journey.",
+      "Implemented responsive design principles to ensure optimal performance and accessibility across different devices, increasing app usability by 25%Enhanced order tracking and item management features, allowing users to efficiently add, delete, and track food orders, improving overall user satisfaction.",
+      "Tech: Figma, UI/UX Design, Wireframing"
     ],
   },
 ];
