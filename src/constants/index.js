@@ -112,7 +112,7 @@ const experiences = [
     ],
   },
   {
-    title: "High Fidelity food Application",
+    title: "High Fidelity Health Application",
     color: "text-orange-600",
     icon: reslogo4,
     iconBg: "#383E56",
